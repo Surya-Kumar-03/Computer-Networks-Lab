@@ -1,0 +1,6 @@
+Aim: Program to implement HTTP protocol and to print URl for the Client.
+Algorithm: 
+STEP 1: Create the URL with Http URL Connections 
+STEP 2: Define the Http Protocol for Client Connections. 
+STEP3: Get the Http Connection. 
+STEP4:Print the URL for the Client

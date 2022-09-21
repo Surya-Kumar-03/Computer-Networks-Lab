@@ -1,0 +1,14 @@
+
+Aim: To write a java Program for simulating TRACEROUTE
+commands.
+Algorithm:
+1. Start the program
+2.Include necessary Package in java
+3 To Create a process object P to implement
+Runtime and execution command
+H. To create a Buffered Reader object
+5. create a string
+6.Get the details
+ 1.Ip Address
+7.print the results
+8.stop the program

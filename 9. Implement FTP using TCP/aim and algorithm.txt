@@ -1,0 +1,12 @@
+Aim: Program to implement FTP using TCP.
+Algorithm: 
+ CLIENT 
+STEP 1: Create instance for the Socket class and establish connectivity with the 
+server 
+STEP 2: Use the port number 4000 
+STEP 3: Receive the file from the server 
+STEP 4: Reset the connection with the server 
+SERVER 
+STEP 1: Create instances for the serversocket class and accept the server port 
+STEP 2: Read the filename to be opened 
+STEP 3: Send the file to the client

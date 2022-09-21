@@ -1,0 +1,8 @@
+Start the program 
+•Aim: to Daemonstrate the usage of Daemon
+•Algorithm:                                  
+•To start the program 
+•To call set  Daemon method for marking the current There is a status 
+•Parameter is on if Mark this thread as a Daemon thread
+•Boolean is Daemon method to check the current Daemon thread and it returns true if this thread Is Daemon thread 
+end the program
