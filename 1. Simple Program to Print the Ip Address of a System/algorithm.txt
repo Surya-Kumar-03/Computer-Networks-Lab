@@ -1,0 +1,6 @@
+Algorithm
+1. Import all the required packages net, and io packages
+2. Create a class ipclient
+3. Initialize InetAddress class and create the object ia.
+4. Get the Ip address of the system using getLocalHost() method
+5. Print the IP address.

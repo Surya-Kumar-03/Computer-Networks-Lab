@@ -1,0 +1,20 @@
+Aim: Program to perform checksum for Packet Date and file
+Algorithm:
+Server Side
+1. Create objects of ServerSocket and Socket class
+2. Create input and output buffers
+3. Listen for client to connect
+4. Get the data from client
+5. Calculate the CRC
+6. Get the CRC from client
+7. If calculated CRC is same as that of received CRC, then send success
+message to client
+8. Else send failure message
+9. Close sockets
+10.Stop
+Client Side
+1. Create object of Socket class and connect to the server
+2. Send the data along with the CRC
+3. Get the response from server and print
+4. Close socket
+5. Stop

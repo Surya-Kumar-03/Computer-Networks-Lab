@@ -1,0 +1,13 @@
+Aim: Program to perform telnet protocol using java.
+Algorithm:
+SERVER:
+STEP1. Declare the header file and create class name.
+STEP2. Create an object in the server which check where its connection is
+established or not.
+STEP3. Now send the message as input to client.
+STEP4. Print the message
+CLIENT:
+STEP1. Declare the header file.
+STEP2. Create a class name for class.
+STEP3. By using buffer condition are read and print the input.
+STEP4. Display the connection message which is given in server.
